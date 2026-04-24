@@ -1,4 +1,4 @@
-# 🍷 Wine Quality Predictor (SQL Project) 
+# 🍷 Wine Quality Predictor (SQL Project) .
 
 ## TEAM URANUS
 * Bryan Calderon
